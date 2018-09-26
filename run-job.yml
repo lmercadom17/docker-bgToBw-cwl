@@ -1,0 +1,9 @@
+bgfile: 
+ class: File
+ path: DATA/4DNFIU37KWB1.bedGraph.gz
+
+chromsize:
+ class: File
+ path: DATA/4DNFI823LSII.chrom.sizes
+
+outdir: /Users/luisa/CWL_practice/cwl_bgTobw
